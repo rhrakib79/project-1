@@ -350,3 +350,28 @@ nav a{
 }
 
 }
+
+
+
+
+.theme-toggle{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+
+    width: 45px;
+    height: 45px;
+    background: #0ef;
+    color: #081b29;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 22px;
+    box-shadow: 0 0 10px #0ef;
+}
+
+
+
